@@ -1,6 +1,6 @@
 ### Hi there! <img src="hand_wave.gif" alt="drawing" width="24"/>
 
-<!-- ![Hand animation](https://raw.githubusercontent.com/migueltc13/migueltc13/main/hand_wave.gif) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&theme=dark) -->
 
 ![Snake animation](https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg)
 
