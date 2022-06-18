@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! <img src="hand_wave.gif" alt="drawing" width="24"/>
+
+<!-- ![Hand animation](https://raw.githubusercontent.com/migueltc13/migueltc13/main/hand_wave.gif) -->
+
+![Snake animation](https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **migueltc13/migueltc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
