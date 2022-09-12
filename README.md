@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello World <img src="hand_wave.gif" alt="hand_wave.gif" width="3%"/></h1>
+  <h1> Hello World <img src="hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
 </div>
 
 <!-- 
@@ -25,18 +25,18 @@ TryHackMe Profile Badge
 <br>
 
 <p float="left" align="center">
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="10%"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="10%"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/ohsint"><img src="https://tryhackme.com/img/badges/ohsint.svg" width="10%"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="10%"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="10%"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="10%"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/ohsint"><img src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
 </p>
 
 <br>
 
 <div align="center">
-  <a target="_blank" href="#"><img src="z0d1ac.png" width="5%"></a>
+  <a target="_blank" href="#"><img src="z0d1ac.png" width="33"></a>
 </div>
 
 <!--
