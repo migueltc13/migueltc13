@@ -36,7 +36,7 @@ TryHackMe Profile Badge
 <br>
 
 <div align="center">
-  <a target="_blank" href="#"><img src="z0d1ac.png" width="15%"></a>
+  <a target="_blank" href="#"><img src="z0d1ac.png" width="5%"></a>
 </div>
 
 <!--
