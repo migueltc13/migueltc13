@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello World <img src="assets/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
+  <h1> Hello world <img src="assets/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
 </div>
 
 <!-- 
