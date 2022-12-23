@@ -14,13 +14,18 @@ Languages used in public repos
 
 <br>
 
+<!-- Digital Ocean Ref badge -->
+<div align="center">
+  <a href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+</div>
+
+<br>
+
 <!-- 
 TryHackMe Profile Badge
 <script src="https://tryhackme.com/badge/1134216"></script>
 -->
 <div align="center">
-  <a href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-  <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img src="https://tryhackme-badges.s3.amazonaws.com/z0d1ac.png" alt="TryHackMe"></a>
 </div>
 
