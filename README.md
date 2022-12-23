@@ -19,11 +19,12 @@ TryHackMe Profile Badge
 <script src="https://tryhackme.com/badge/1134216"></script>
 -->
 <div align="center">
+  <a href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+  <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img src="https://tryhackme-badges.s3.amazonaws.com/z0d1ac.png" alt="TryHackMe"></a>
 </div>
 
 <br>
-
 <p float="left" align="center">
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
@@ -32,12 +33,15 @@ TryHackMe Profile Badge
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
 </p>
-
 <br>
 
-<div align="center">
+<p float="center" align="center">
+  
+</p>
+
+<p align="center">
   <a target="_blank" href="#"><img src="assets/z0d1ac.png" width="33"></a>
-</div>
+</p>
 
 <!--
 **migueltc13/migueltc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
