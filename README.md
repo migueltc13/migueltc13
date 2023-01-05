@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello world <img src="assets/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
+  <h1> Hello world <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
 </div>
 
 <!-- 
@@ -41,7 +41,7 @@ TryHackMe Profile Badge
 <br>
 
 <div align="center">
-  <a target="_blank" href="#"><img src="assets/z0d1ac.png" width="33"></a>
+  <a target="_blank" href="#"><img src=".github/images/z0d1ac.png" width="33"></a>
 </div>
 
 <!--
