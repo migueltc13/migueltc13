@@ -1,11 +1,11 @@
 name: Update Image Readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at midnigth UTC everyday
-    - cron: "0 0 * * *"
-
+#on:
+#  workflow_dispatch:
+#  schedule:
+#    # Runs at midnigth UTC everyday
+#    - cron: "0 0 * * *"
+#
 #jobs:
 #  update-readme:
 #    name: Update Image README
