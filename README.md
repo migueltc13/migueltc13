@@ -9,9 +9,7 @@ Languages used in public repos
 
 <!-- ![Snake animation](https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg) -->
 <div align="center">
-  <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/hand_wave.gif height=180px width=180px align=right alt=Image ALT />
-<!--END_SECTION:update_image-->
+  <img src="https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <br>
@@ -21,7 +19,9 @@ TryHackMe Profile Badge
 <script src="https://tryhackme.com/badge/1134216"></script>
 -->
 <div align="center">
+  <!--START_SECTION:update_image-->
   <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img src="https://tryhackme-badges.s3.amazonaws.com/z0d1ac.png" alt="TryHackMe"></a>
+  <!--END_SECTION:update_image-->
 </div>
 
 <div float="left" align="center">
