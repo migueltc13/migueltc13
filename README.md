@@ -22,8 +22,6 @@ TryHackMe Profile Badge
   <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img src="https://tryhackme-badges.s3.amazonaws.com/z0d1ac.png" alt="TryHackMe"></a>
 </div>
 
-<br>
-
 <div float="left" align="center">
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
