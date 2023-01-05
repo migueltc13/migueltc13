@@ -19,9 +19,7 @@ TryHackMe Profile Badge
 <script src="https://tryhackme.com/badge/1134216"></script>
 -->
 <div align="center">
-  <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/hand_wave.gif height=180px width=180px align=right alt=Image ALT />
-<!--END_SECTION:update_image-->
+  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img src="/.github/images/thm.png" alt="TryHackMe z0d1ac Profile"></a>
 </div>
 
 <div float="left" align="center">
