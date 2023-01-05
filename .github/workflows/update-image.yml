@@ -6,11 +6,11 @@ on:
     # Runs at midnigth UTC everyday
     - cron: "0 0 * * *"
 
-jobs:
-  update-readme:
-    name: Update Image README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: siddharth2016/update-readme-image@main
-        with:
-          IMG_ALT: Image ALT
+#jobs:
+#  update-readme:
+#    name: Update Image README
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: siddharth2016/update-readme-image@main
+#        with:
+#          IMG_ALT: Image ALT
