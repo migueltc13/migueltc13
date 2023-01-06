@@ -17,9 +17,7 @@ jobs:
         uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            ./assets/github-contribution-grid-snake.gif
-            ./assets/github-contribution-grid-snake.svg
+          outputs: ./.github/images/github-contribution-grid-snake.svg
       
       - name: Commit
         run: |
