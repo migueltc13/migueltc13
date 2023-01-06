@@ -34,6 +34,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: migueltc13
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
