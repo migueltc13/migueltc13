@@ -9,8 +9,10 @@ Languages used in public repos
 
 <!-- ![Snake animation](https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg) -->
 <div align="center">
-  <!-- <img src="https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg"/>  -->
-  <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/temp_snake_dark.svg"/>
+  <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/assets/github-contribution-grid-snake.svg?palette=dark"/>
+  <!--
+    <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/temp_snake_dark.svg"/>
+  -->
 </div>
 
 <br>
