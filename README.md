@@ -20,7 +20,7 @@ TryHackMe Profile Badge
 <script src="https://tryhackme.com/badge/1134216"></script>
 -->
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img src="/.github/images/thm.png" alt="TryHackMe z0d1ac Profile"></a>
+  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img height="58" src="/.github/images/thm.png" alt="TryHackMe z0d1ac Profile"></a>
 </div>
 
 <div float="left" align="center">
