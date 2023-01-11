@@ -17,6 +17,13 @@ Languages used in public repos
 
 <br>
 
+<!-- Linkedin badge -->
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/miguel-carvalho-dev"><img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/linkedin.png" width="250"/>
+</div>
+
+<br>
+
 <!-- 
 TryHackMe Profile Badge
 <script src="https://tryhackme.com/badge/1134216"></script>
