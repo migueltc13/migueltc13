@@ -35,12 +35,15 @@
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
 </div>
+
 <br>
 
 <!-- Linkedin badge -->
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/miguel-carvalho-dev"><img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/linkedin.png" width="250"/>
 </div>
+
+<br>
 
 <!-- Digital Ocean Ref badge -->
 <div align="center">
