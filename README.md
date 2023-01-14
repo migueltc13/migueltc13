@@ -1,18 +1,26 @@
 <div align="center">
   <h1> Hello world <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
 </div>
-
-<!-- 
-Languages used in public repos
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&theme=dark)
--->
-
+  
 <!-- ![Snake animation](https://github.com/migueltc13/migueltc13/blob/output/github-contribution-grid-snake.svg) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg"/>
   <!--
     <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/temp_snake_dark.svg"/>
   -->
+</div>
+
+<br>
+
+<!-- Readme stats and top languages -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&theme=dark" />
+  </a>
+  <a>&nbsp&nbsp&nbsp</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&theme=dark" />
+  </a>
 </div>
 
 <br>
@@ -48,7 +56,7 @@ TryHackMe Profile Badge
   <a href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 </div>
 
-<br>
+<img width="1" src="https://profile-counter.glitch.me/{migueltc13}/count.svg" alt="Visitor's Count" />
 
 <div align="center">
   <a target="_blank" href="#"><img src=".github/images/z0d1ac.png" width="33"></a>
