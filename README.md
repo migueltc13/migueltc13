@@ -15,11 +15,11 @@
 <!-- Readme stats and top languages -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&theme=dark" />
+   <img align="center" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&hide_border=true&theme=dark" />
   </a>
-  <a>&nbsp&nbsp&nbsp</a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&theme=dark" />
+    <img align="center" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&hide_border=true&theme=dark" />
   </a>
 </div>
 
