@@ -47,7 +47,9 @@
 
 <!-- Digital Ocean Ref badge -->
 <div align="center">
-  <a href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+  <a target="_blank" href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+    <img src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="Get $200 to try DigitalOcean"/>
+  </a>
 </div>
 
 <div align="center"><img width="0" src="https://profile-counter.glitch.me/{migueltc13}/count.svg" alt="Visitor's count"/></div>
