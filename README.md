@@ -1,10 +1,8 @@
 <!-- Heading
 <div align="center">
   <h1> Hello world <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
-</div>
+</div><br>
 -->
-
-<br>
 
 <!-- Readme stats and top languages -->
 <div align="center">
@@ -53,7 +51,9 @@
   </a>
 </div>
 
-<div align="center"><img width="0" src="https://profile-counter.glitch.me/{migueltc13}/count.svg" alt="Visitor's count"/></div>
+<div align="center">
+  <img width="0" src="https://profile-counter.glitch.me/{migueltc13}/count.svg" alt="Visitor's count"/>
+</div>
 
 <div align="center">
   <a target="_blank" href="#"><img src=".github/images/z0d1ac.png" width="33"></a>
