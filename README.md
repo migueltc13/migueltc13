@@ -7,7 +7,7 @@
 <!-- Readme stats and top languages -->
 <div align="center">
       <a><img align="center" width="55%" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&hide_border=true&theme=dark"/></a>
-      <a><img align="center" width="39.5%" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&hide_border=true&theme=dark"/></a>
+      <a><img align="center" width="43.7%" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&hide_border=true&theme=dark"/></a>
 </div>
 
 <br>
