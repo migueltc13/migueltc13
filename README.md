@@ -1,6 +1,8 @@
+<!-- Heading
 <div align="center">
   <h1> Hello world <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
 </div>
+-->
 
 <br>
 
@@ -38,12 +40,11 @@
 
 <br>
 
-<!-- Linkedin badge -->
+<!-- Linkedin badge
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/miguel-carvalho-dev"><img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/linkedin.png" width="250"/>
-</div>
-
-<br>
+</div><br>
+-->
 
 <!-- Digital Ocean Ref badge -->
 <div align="center">
