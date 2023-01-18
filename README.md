@@ -25,15 +25,15 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" alt="TryHackMe profile" href="https://tryhackme.com/p/z0d1ac"><img height="58" src="/.github/images/thm.png" alt="TryHackMe z0d1ac Profile"></a>
+  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img height="58" alt="TryHackMe z0d1ac Profile" src="/.github/images/thm.png"></a>
 </div>
 <div align="center">
-  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
-  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
-  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/ohsint"><img src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
-  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"></a>
-  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
-  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img alt="TryHackMe badge" src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img alt="TryHackMe badge" src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/ohsint"><img alt="TryHackMe badge" src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"><img alt="TryHackMe badge" src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img alt="TryHackMe badge" src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img alt="TryHackMe badge" src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
 </div>
 
 <br>
@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <a target="_blank" href="#"><img src=".github/images/z0d1ac.png" width="33"></a>
+  <a target="_blank" href="#"><img alt="Z0d1ac" src=".github/images/z0d1ac.png" width="33"></a>
 </div>
 
 <!--
