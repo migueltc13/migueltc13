@@ -47,7 +47,7 @@
 <!-- Digital Ocean Ref badge -->
 <div align="center">
   <a target="_blank" href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-    <img alt="Get $200 to try DigitalOcean src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"/>
+    <img alt="Get $200 to try DigitalOcean" src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"/>
   </a>
 </div>
 
