@@ -6,15 +6,15 @@
 
 <!-- Readme stats and top languages -->
 <div align="center">
-      <a><img align="center" width="55%" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&hide_border=true&theme=dark"/></a>
-      <a><img align="center" width="43.7%" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&hide_border=true&theme=dark"/></a>
+      <a><img align="center" width="55%" alt="GitHub readme stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&hide_border=true&theme=dark"/></a>
+      <a><img align="center" width="43.7%" alt="GitHub top languages" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&hide_border=true&theme=dark"/></a>
 </div>
 
 <br>
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg"/>
   <!-- backup
     <img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/temp_snake_dark.svg"/>
   -->
@@ -25,15 +25,15 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img height="58" src="/.github/images/thm.png" alt="TryHackMe z0d1ac Profile"></a>
+  <a target="_blank" alt="TryHackMe profile" href="https://tryhackme.com/p/z0d1ac"><img height="58" src="/.github/images/thm.png" alt="TryHackMe z0d1ac Profile"></a>
 </div>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/ohsint"><img src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
+  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/mr-robot"><img src="https://tryhackme.com/img/badges/mrrobot.svg" width="100"></a>
+  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/terminaled"><img src="https://tryhackme.com/img/badges/linux.svg" width="100"></a>
+  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/ohsint"><img src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
+  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100"></a>
+  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/koth-game"><img src="https://tryhackme.com/img/badges/king.svg" width="100"></a>
+  <a target="_blank" alt="TryHackMe badge" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img src="https://tryhackme.com/img/badges/streak7.svg" width="100"></a>
 </div>
 
 <br>
@@ -47,12 +47,12 @@
 <!-- Digital Ocean Ref badge -->
 <div align="center">
   <a target="_blank" href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-    <img src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="Get $200 to try DigitalOcean"/>
+    <img alt="Get $200 to try DigitalOcean src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"/>
   </a>
 </div>
 
 <div align="center">
-  <img width="0" src="https://profile-counter.glitch.me/{migueltc13}/count.svg" alt="Visitor's count"/>
+  <img width="0" alt="Visitor's count" src="https://profile-counter.glitch.me/{migueltc13}/count.svg"/>
 </div>
 
 <div align="center">
