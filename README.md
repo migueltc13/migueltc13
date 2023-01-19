@@ -51,9 +51,11 @@
   </a>
 </div>
 
+<!-- Visitor's count
 <div align="center">
   <img width="0" alt="Visitor's count" src="https://profile-counter.glitch.me/{migueltc13}/count.svg"/>
 </div>
+-->
 
 <div align="center">
   <a target="_blank" href="#"><img alt="Z0d1ac" src=".github/images/z0d1ac.png" width="33"></a>
