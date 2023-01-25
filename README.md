@@ -6,8 +6,8 @@
 
 <!-- Readme stats and top languages -->
 <div align="center">
-      <a><img align="center" width="55%" alt="GitHub readme stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&hide_border=true&theme=dark"/></a>
-      <a><img align="center" width="43.7%" alt="GitHub top languages" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&hide_border=true&theme=dark"/></a>
+      <a><img align="center" width="55%" alt="GitHub readme stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&theme=dark&border_color=0ac647&icon_color=0ac647"/></a>
+      <a><img align="center" width="43.7%" alt="GitHub top languages" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&theme=dark&border_color=0ac647&icon_color=0ac647"/></a>
 </div>
 
 <br>
