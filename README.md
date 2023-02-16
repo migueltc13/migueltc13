@@ -6,12 +6,12 @@
 
 <!-- Readme stats and top languages -->
 <div align="center">
-  <picture>
+  <a href="#">
     <img align="center" width="55%" title="Miguel Carvalho's GitHub Stats" alt="Miguel Carvalho's GitHub Stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/>
-  </picture>
-  <picture>
+  </a>
+  <a href="#">
     <img align="center" width="43.7%" title="Most Used Languages" alt="Most Used Languages" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/>
-  </picture>
+  </a>
 </div>
 
 <br>
