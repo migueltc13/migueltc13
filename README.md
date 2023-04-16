@@ -33,7 +33,9 @@
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"   ><img title="King"         alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/king.svg"        width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"><img title="7 Day Streak" alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak7.svg"     width="100"></a>
 </div>
-
+<div align="center">
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/linux-privesc"><img title="Linux PrivEsc" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/linuxprivesc.svg" width="100"></a>
+</div>
 <br>
 
 <!-- Linkedin badge
