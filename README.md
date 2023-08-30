@@ -36,6 +36,7 @@
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/linux-privesc"><img title="Linux PrivEsc" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/linuxprivesc.svg" width="100"></a>
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/blue"         ><img title="Blue"          alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/blue.svg"         width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/owasp-10"     ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
 </div>
 <br>
 
