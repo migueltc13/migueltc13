@@ -23,7 +23,7 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img height="58" title="TryHackMe Profile" alt="TryHackMe z0d1ac Profile" src="/.github/images/thm.png"></a>
+  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img height="58" title="TryHackMe Profile" alt="TryHackMe z0d1ac Profile" src="https://tryhackme-badges.s3.amazonaws.com/z0d1ac.png"></a>
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"    ><img title="Mr. Robot"      alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/mrrobot.svg"     width="100"></a>
