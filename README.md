@@ -1,13 +1,13 @@
 <!-- Heading
 <div align="center">
-  <h1> Hello world <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
+  <h1> Hello planet <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
 </div><br>
 -->
 
 <!-- Readme stats and top languages -->
 <div align="center">
-  <a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
-  <a href="#"><img align="center" width="43.7%" title="Most Used Languages" alt="Most Used Languages" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=HTML,CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/></a>
+  <a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://migueltc13-github-readme-stats.vercel.app/api?username=migueltc13&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647"/></a>
+  <a href="#"><img align="center" width="43.7%" title="Most Used Languages" alt="Most Used Languages" src="https://migueltc13-github-readme-stats.vercel.app/api/top-langs/?username=migueltc13&langs_count=10&layout=compact&hide=HTML,CSS,SCSS,Jupyter Notebook,Tex,Makefile,Roff&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647"/></a>
 </div>
 
 <br>
@@ -50,15 +50,17 @@
 -->
 
 <!-- Digital Ocean Ref badge -->
+<!--
 <div align="center">
   <a target="_blank" href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
     <img title="Get $200 to try DigitalOcean" alt="Get $200 to try DigitalOcean" src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"/>
   </a>
 </div>
+-->
 
 <!-- Visitor's count -->
 <div align="center">
-  <img width="0" alt="Visitor's count" src="https://profile-counter.glitch.me/{migueltc13}/count.svg"/>
+  <img width="0" alt="" src="https://profile-counter.deno.dev/migueltc13/count.svg"/>
 </div>
 
 <div align="center">
