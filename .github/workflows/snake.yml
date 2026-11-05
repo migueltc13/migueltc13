@@ -21,11 +21,11 @@ jobs:
             dist/snake-light.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # Force-pushes a single commit to the output branch, so main's history doesn't grow
-      - name: Push to output branch
+      # Force-pushes a single commit to the snake-output branch, so main's history doesn't grow
+      - name: Push to snake-output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: snake-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
